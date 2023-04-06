@@ -1,0 +1,4 @@
+CREATE TABLE favorite_pizza (
+  pizza_name VARCHAR(50) NOT NULL,
+  rating INT(11) NOT NULL
+);
